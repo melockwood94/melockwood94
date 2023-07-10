@@ -1,16 +1,28 @@
-### Hi there 👋
+Hi there!
 
-<!--
-**melockwood94/melockwood94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matt. I am a full stack developer with a current focus on workflow automation and creating integrations between systems. 
 
-Here are some ideas to get you started:
+The tools I most commonly use include
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      </td>
+      <td>
+        <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+      </td>
+      <td>
+        <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      </td>
+      <td>
+        <img alt="express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+      </td>
+</table>
+
+Programming, to me, is a way to be creative while solving puzzles. I love that there's always something new to learn, a new way of looking at/doing things, and always someone with a new perspective. 
+
+Outside this wild world of technology, you'll likely find me walking outdoors, riding motorcycles, strumming away at the guitar (badly), and sipping whiskey.
+
+Thanks for stopping by! If you have any questions, or just feel like chatting, feel free to reach out.
