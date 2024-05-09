@@ -23,4 +23,4 @@ The tools I most commonly use include
 
 Programming, to me, is a way to be creative while solving puzzles. I love that there's always something new to learn, a new way of looking at/doing things, and always someone with a new perspective. 
 
-Thanks for stopping by! If you have any questions, or just feel like chatting, feel free to reach out.
+Thanks for stopping by!
