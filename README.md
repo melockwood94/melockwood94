@@ -23,6 +23,4 @@ The tools I most commonly use include
 
 Programming, to me, is a way to be creative while solving puzzles. I love that there's always something new to learn, a new way of looking at/doing things, and always someone with a new perspective. 
 
-Outside this wild world of technology, you'll likely find me walking outdoors, riding motorcycles, strumming away at the guitar (badly), and sipping whiskey.
-
 Thanks for stopping by! If you have any questions, or just feel like chatting, feel free to reach out.
